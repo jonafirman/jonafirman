@@ -1,7 +1,7 @@
 # Hi, I'm Jona 👋
 
-Full-stack developer focused on building **SaaS products** that solve real problems.
-Currently building **[Nama SaaS]** — coming soon.
+Full-stack developer from Indonesia, focused on building **SaaS products** that solve real problems.
+Currently building my first SaaS product. Coming soon.
 
 ### 🛠️ Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
@@ -15,9 +15,8 @@ Currently building **[Nama SaaS]** — coming soon.
 ### 🚀 Featured Projects
 | Project | Description | Live |
 |---|---|---|
-| [portfolio](https://github.com/USERNAME/portfolio) | Personal portfolio website | [Demo](https://USERNAME.dev) |
-| [project-2](https://github.com/USERNAME/project-2) | Short one-line description | [Demo](#) |
-| [project-3](https://github.com/USERNAME/project-3) | Short one-line description | [Demo](#) |
+| [portofolio](https://github.com/jonafirman/portofolio) | Personal portfolio website built with Next.js and Tailwind CSS | Coming soon |
+| SaaS product | My first SaaS product, built in public | Coming soon |
 
 ### 📫 Connect
-[Website](https://USERNAME.dev) · [LinkedIn](https://linkedin.com/in/USERNAME) · [X](https://x.com/USERNAME) · [Email](mailto:hello@USERNAME.dev)
+[GitHub](https://github.com/jonafirman) · LinkedIn and website coming soon

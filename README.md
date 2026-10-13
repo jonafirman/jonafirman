@@ -19,4 +19,4 @@ Currently building my first SaaS product. Coming soon.
 | SaaS product | My first SaaS product, built in public | Coming soon |
 
 ### 📫 Connect
-[GitHub](https://github.com/jonafirman) · [Email](mailto:341908993+jonafirman@users.noreply.github.com)
+[GitHub](https://github.com/jonafirman) · LinkedIn and website coming soon

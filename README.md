@@ -15,7 +15,7 @@ Currently building my first SaaS product. Coming soon.
 ### 🚀 Featured Projects
 | Project | Description | Live |
 |---|---|---|
-| [portfolio](https://github.com/jonafirman/portfolio) | Personal portfolio website built with Next.js and Tailwind CSS | Coming soon |
+| [portofolio](https://github.com/jonafirman/portofolio) | Personal portfolio website built with Next.js and Tailwind CSS | Coming soon |
 | SaaS product | My first SaaS product, built in public | Coming soon |
 
 ### 📫 Connect
